@@ -3,5 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("두번째 커밋 수정1");
+        System.out.println("문장 추가");
     }
 }
